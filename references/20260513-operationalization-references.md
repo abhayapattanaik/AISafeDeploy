@@ -2,7 +2,7 @@
 
 This page contains selected references, frameworks, papers, and operational discussions that informed the initial AISafeDeploy thinking.
 
-The goal is not to claim novelty, but to synthesize emerging operational patterns across the enterprise AI ecosystem.
+The goal is to synthesize emerging operational patterns across the enterprise AI ecosystem.
 
 ---
 
